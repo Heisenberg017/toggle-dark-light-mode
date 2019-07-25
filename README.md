@@ -1,2 +1,2 @@
-# toggle-dark-light-mode
+# toggle-dark mode
 Toggle Dark And Light Mode Using Css
